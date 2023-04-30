@@ -1,4 +1,4 @@
-# JavaScript Vanilla Projectsss
+# JavaScript Vanilla Projects
 
 - Tip Calculation
 - Random Color Generator
